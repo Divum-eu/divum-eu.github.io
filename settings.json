@@ -1,32 +1,16 @@
 {
-    "siteTitle": "My Project Title",
-    "siteDescription": "This is the description of my project title",
-    "author": "John Doe",
-    "faviconUrl": "/assets/myfavicon.png",
+    "siteTitle": "Divum Projects",
+    "siteDescription": "Documentation for Divum's open source projects — a Minecraft server management platform.",
+    "author": "Divum",
+    "faviconUrl": "/favicon.png",
     "blogTitle": "Blog",
-    "blogDescription": "Here is the description of the blog part",
-    "productionUrl": "https://eleventy-libdoc.netlify.app",
+    "blogDescription": "Updates and announcements about Divum projects",
+    "productionUrl": "https://docs.divum.eu",
     "customLinks": [
         {
-            "url": "/feed.xml",
-            "text": "Atom feed"
-        },
-        {
-            "url": "https://github.com/ita-design-system/eleventy-libdoc",
+            "url": "https://github.com/Divum-eu",
             "text": "GitHub"
-        },
-        {
-            "url": "#",
-            "text": "Bluesky"
-        },
-        {
-            "url": "#",
-            "text": "LinkedIn"
-        },
-        {
-            "url": "#",
-            "text": "CodePen"
         }
     ],
-    "editThisPageRootUrl": "https://github.com/ita-design-system/eleventy-libdoc/blob/main"
+    "editThisPageRootUrl": "https://github.com/Divum-eu/divum-github-pages/blob/main"
 }
